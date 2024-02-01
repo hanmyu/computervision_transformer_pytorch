@@ -23,7 +23,15 @@
 | 8주차(3/3) | 10. 비전 트랜스포머(p.625~p.657) |
 | 9주차? (필요 시 진행, 미정) | 11. 모델 배포 |    
 
-⭐객체 탐지와 비전 트랜스포머가 책의 핵심이라 해당 부분을 집중하여 공부합니다.
+⭐ 객체 탐지와 비전 트랜스포머가 책의 핵심이라 해당 부분을 집중하여 공부합니다.     
+</br>
+
+
+## 스터디원 소개
+| [<img src="https://github.com/docsom.png" width="150px;"/>](https://github.com/docsom) |
+| --- |
+| [docsom](https://github.com/docsom) |
+</br>
 
        
 ## 스터디 진행방식
@@ -32,11 +40,6 @@
     - 이론 + 코드 탐구, 챕터에서 이해 못한 부분 질의응답 방식으로 진행.
 - 매주 화요일 오후 7시 30분에 온라인 스터디(1시간 30분)를 진행합니다
     - 챕터 요약하며 같이 공부하기.
- 
-## 스터디원 소개
-| [<img src="https://github.com/docsom.png" width="150px;"/>](https://github.com/docsom) |
-| --- |
-| [docsom](https://github.com/docsom) |
 
 
 ## 스터디 지향점
