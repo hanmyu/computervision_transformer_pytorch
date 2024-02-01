@@ -24,13 +24,13 @@
 | 9주차? (필요 시 진행, 미정) | 11. 모델 배포 |    
 
 ⭐ 객체 탐지와 비전 트랜스포머가 책의 핵심이라 해당 부분을 집중하여 공부합니다.     
-</br>
 
 
 ## 스터디원 소개
 | [<img src="https://github.com/docsom.png" width="150px;"/>](https://github.com/docsom) | [<img src="https://github.com/xvihaan.png" width="150px;"/>](https://github.com/xvihaan) |
 | --- | --- |
 | [docsom](https://github.com/docsom) | [xvihaan](https://github.com/xvihaan) |
+</br>
 
        
 ## 스터디 진행방식
