@@ -28,9 +28,9 @@
 
 
 ## 스터디원 소개
-| [<img src="https://github.com/docsom.png" width="150px;"/>](https://github.com/docsom) |
-| --- |
-| [docsom](https://github.com/docsom) |
+| [<img src="https://github.com/docsom.png" width="150px;"/>](https://github.com/docsom) | [<img src="https://github.com/xvihaan.png" width="150px;"/>](https://github.com/xvihaan) |
+| --- | --- |
+| [docsom](https://github.com/docsom) | [xvihaan](https://github.com/xvihaan) |
 </br>
 
        
