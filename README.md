@@ -27,7 +27,7 @@
 
 
 ## 스터디원 소개
-| [<img src="https://github.com/hanmyu.png" width="150px;"/>](https://github.com/hanmyu) | [<img src="https://github.com/docsom.png" width="150px;"/>](https://github.com/docsom) | [<img src="https://github.com/xvihaan.png" width="150px;"/>](https://github.com/xvihaan) |
+| [<img src="https://github.com/hanmyu.png" width="120px;"/>](https://github.com/hanmyu) | [<img src="https://github.com/docsom.png" width="120px;"/>](https://github.com/docsom) | [<img src="https://github.com/xvihaan.png" width="120px;"/>](https://github.com/xvihaan) |
 | --- | --- | --- |
 | [Han Myungein](https://github.com/hanmyu) | [docsom](https://github.com/docsom) | [xvihaan](https://github.com/xvihaan) |
        
