@@ -29,7 +29,7 @@
 ## 스터디원 소개
 | [<img src="https://github.com/hanmyu.png" width="100%;"/>](https://github.com/hanmyu) | [<img src="https://github.com/docsom.png" width="100%;"/>](https://github.com/docsom) | [<img src="https://github.com/xvihaan.png" width="100%;"/>](https://github.com/xvihaan) |
 | --- | --- | --- |
-| [Han Myungein](https://github.com/hanmyu) | [docsom](https://github.com/docsom) | [xvihaan](https://github.com/xvihaan) |
+| <div align="center">[Han Myungein](https://github.com/hanmyu)</div> | <div align="center">[docsom](https://github.com/docsom)</div> | <div align="center">[xvihaan](https://github.com/xvihaan)</div> |
        
 ## 스터디 진행방식
 - 한주간 챕터를 각자 공부합니다(챕터를 먼저 공부하고 스터디에 참여하기).
