@@ -33,6 +33,10 @@
 - 매주 화요일 오후 7시 30분에 온라인 스터디(1시간 30분)를 진행합니다
     - 챕터 요약하며 같이 공부하기.
  
+## 스터디원 소개
+| <img src="https://github.com/docsom.png" width="150px;"/> |
+| --- |
+| [docsom](https://github.com/docsom) |
 
 
 ## 스터디 지향점
