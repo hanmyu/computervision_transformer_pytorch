@@ -34,7 +34,7 @@
     - 챕터 요약하며 같이 공부하기.
  
 ## 스터디원 소개
-| <img src="https://github.com/docsom.png" width="150px;"/> |
+| [<img src="https://github.com/docsom.png" width="150px;"/>](https://github.com/docsom) |
 | --- |
 | [docsom](https://github.com/docsom) |
 
