@@ -30,7 +30,6 @@
 | [<img src="https://github.com/hanmyu.png" width="150px;"/>](https://github.com/hanmyu) | [<img src="https://github.com/docsom.png" width="150px;"/>](https://github.com/docsom) | [<img src="https://github.com/xvihaan.png" width="150px;"/>](https://github.com/xvihaan) |
 | --- | --- | --- |
 | [Han Myungein](https://github.com/hanmyu) | [docsom](https://github.com/docsom) | [xvihaan](https://github.com/xvihaan) |
-
        
 ## 스터디 진행방식
 - 한주간 챕터를 각자 공부합니다(챕터를 먼저 공부하고 스터디에 참여하기).
