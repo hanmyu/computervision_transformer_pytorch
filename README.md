@@ -27,9 +27,9 @@
 
 
 ## 스터디원 소개
-| [<img src="https://github.com/hanmyu.png" width="100%;"/>](https://github.com/hanmyu) | [<img src="https://github.com/docsom.png" width="100%;"/>](https://github.com/docsom) | [<img src="https://github.com/xvihaan.png" width="100%;"/>](https://github.com/xvihaan) |
-| --- | --- | --- |
-| <div align="center">[Han Myungein](https://github.com/hanmyu)</div> | <div align="center">[docsom](https://github.com/docsom)</div> | <div align="center">[xvihaan](https://github.com/xvihaan)</div> |
+| [<img src="https://github.com/hanmyu.png" width="100%;"/>](https://github.com/hanmyu) | [<img src="https://github.com/docsom.png" width="100%;"/>](https://github.com/docsom) | [<img src="https://github.com/xvihaan.png" width="100%;"/>](https://github.com/xvihaan) | [<img src="https://github.com/neutro-jina.png" width="100%;"/>](https://github.com/neutro-jina) |
+| --- | --- | --- | --- |
+| <div align="center">[Han Myungein](https://github.com/hanmyu)</div> | <div align="center">[docsom](https://github.com/docsom)</div> | <div align="center">[xvihaan](https://github.com/xvihaan)</div> | <div align="center">[neutro-jina](https://github.com/neutro-jina)</div> |
        
 ## 스터디 진행방식
 - 한주간 챕터를 각자 공부합니다(챕터를 먼저 공부하고 스터디에 참여하기).
