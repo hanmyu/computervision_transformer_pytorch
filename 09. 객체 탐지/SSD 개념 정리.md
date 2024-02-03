@@ -3,6 +3,7 @@
 
 ⭐️ 강추하는 영상
 - https://www.youtube.com/watch?v=F-irLP2k3Dk (SSD 간단 정리)
+- https://www.youtube.com/watch?v=F-irLP2k3Dk (SSD 심층 정리)
 
 # SSD(Single Shot Detector)
 <img width="594" alt="스크린샷 2024-02-03 오후 2 51 19" src="https://github.com/hanmyu/computervision_transformer_pytorch/assets/157959298/71c4cfef-ff3f-4a4f-b9bb-d91bc9e3beea">
