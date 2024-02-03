@@ -1,10 +1,12 @@
 ### Contents
 - 1.) CNN이 무엇이고 2.) 어디에 많이 쓰이고 3.) 구조가 어떻게 되는가
+- CNN 특징 맵이란
 - CNN 어떻게 적용하는지
 
 ⭐️ 강추하는 영상     
 - https://www.youtube.com/watch?v=YRhxdVk_sIs (CNN 전반적인 설명)
 - https://www.youtube.com/watch?v=pj9-rr1wDhM (CNN 적용)
+- https://www.youtube.com/watch?v=VwVg9jCtqaU (CNN 적용, 이해하기 매우 쉬움)
 
 ⭐️ 강추하는 글
 - https://medium.com/@saba99/feature-map-35ba7e6c689e (특징 맵 설명)
@@ -30,4 +32,10 @@
 - 첫번째 convolutional layer에서는 인풋 이미지 데이터에서 이미지의 특징 추출
 - 적용된 필터 수 = 생성되는 특징 맵 수
 - 그림 출처: https://www.researchgate.net/figure/Feature-maps-of-CNN-features-from-different-convolutional-layers-The-four-most_fig3_318460353
-<img width="726" alt="스크린샷 2024-02-04 오전 12 03 02" src="https://github.com/hanmyu/computervision_transformer_pytorch/assets/157959298/d0bf2991-ea59-4ddb-9057-41d61e716fc6">
+<img width="500" alt="스크린샷 2024-02-04 오전 12 03 02" src="https://github.com/hanmyu/computervision_transformer_pytorch/assets/157959298/d0bf2991-ea59-4ddb-9057-41d61e716fc6">
+
+# Convolution 적용하는 법
+<img width="500" alt="스크린샷 2024-02-04 오전 12 32 54" src="https://github.com/hanmyu/computervision_transformer_pytorch/assets/157959298/7edaef3a-9c1c-4b00-b04f-ec8ab6ca57af">
+<img width="500" alt="스크린샷 2024-02-04 오전 12 33 34" src="https://github.com/hanmyu/computervision_transformer_pytorch/assets/157959298/85ca15b5-62a9-47aa-87f1-6ed3d4bc9247">     
+- 그림 출처: https://www.youtube.com/watch?v=VwVg9jCtqaU
+
