@@ -41,5 +41,6 @@
 # Convolution 적용하는 법
 <img width="500" alt="스크린샷 2024-02-04 오전 12 32 54" src="https://github.com/hanmyu/computervision_transformer_pytorch/assets/157959298/7edaef3a-9c1c-4b00-b04f-ec8ab6ca57af">
 <img width="500" alt="스크린샷 2024-02-04 오전 12 33 34" src="https://github.com/hanmyu/computervision_transformer_pytorch/assets/157959298/85ca15b5-62a9-47aa-87f1-6ed3d4bc9247">     
+
 - 그림 출처: https://www.youtube.com/watch?v=VwVg9jCtqaU
 
