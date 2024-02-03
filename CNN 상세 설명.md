@@ -18,9 +18,13 @@
 - CNN의 첫 레이어: 이미지의 제너럴한 특징 인식(경계선, 모서리, 동그라미, 사각형 등을 인식)
 - CNN의 깊은 은닉층: 눈, 코, 입 인식
 - CNN의 매우 깊은 은닉층/마지막: 객체 인식(강아지, 고양이 인식 가능)
-<img width="529" alt="스크린샷 2024-02-03 오후 6 01 18" src="https://github.com/hanmyu/computervision_transformer_pytorch/assets/157959298/e53f2d16-d0f6-41b5-b234-e7efbbca6808">   
-<img width="518" alt="스크린샷 2024-02-03 오후 6 07 07" src="https://github.com/hanmyu/computervision_transformer_pytorch/assets/157959298/7a55add9-0407-42c9-85a1-0067c9e28358">    
-<img width="250" alt="스크린샷 2024-02-03 오후 6 10 29" src="https://github.com/hanmyu/computervision_transformer_pytorch/assets/157959298/055e2961-1136-44a7-8e21-e043ff5a911f">     
+<img width="500" alt="스크린샷 2024-02-03 오후 6 01 18" src="https://github.com/hanmyu/computervision_transformer_pytorch/assets/157959298/e53f2d16-d0f6-41b5-b234-e7efbbca6808">     
+
+    
+<img width="500" alt="스크린샷 2024-02-03 오후 6 07 07" src="https://github.com/hanmyu/computervision_transformer_pytorch/assets/157959298/7a55add9-0407-42c9-85a1-0067c9e28358">     
+
+
+<img width="300" alt="스크린샷 2024-02-03 오후 6 10 29" src="https://github.com/hanmyu/computervision_transformer_pytorch/assets/157959298/055e2961-1136-44a7-8e21-e043ff5a911f">         
 
 
 *CNN의 은닉층에는 convolutional layers가 있어야함. 이게 있어야 CNN이라고 말할 수 있음(아니면 앙꼬없는 찐빵, convolutional layer가 없는 CNN이 됨. 말이 안됨)
