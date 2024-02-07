@@ -2,6 +2,7 @@
 - 1.) CNN이 무엇이고 2.) 어디에 많이 쓰이고 3.) 구조가 어떻게 되는가
 - CNN 특징 맵이란
 - CNN 어떻게 적용하는지
+- 채널이란???
 
 ⭐️ 강추하는 영상     
 - https://www.youtube.com/watch?v=YRhxdVk_sIs (CNN 전반적인 설명)
