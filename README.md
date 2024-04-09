@@ -1,5 +1,7 @@
 # 컴퓨터비전 2달 스터디 정리
-1.) 2024년 1월부터 대전에서 매주 오프라인 3시간, 온라인 1시간 30분 2달 동안 진행되는 스터디, 2.) 2024년 4월부터 영어로 매주 온라인 2시간 2달 동안 진행되는 컴퓨터비전 스터디 정리용 레포입니다.
+- 2024년 1월부터 대전에서 매주 오프라인 3시간, 온라인 1시간 30분 2달 동안 진행되는 스터디
+- 2024년 4월부터 영어로 매주 온라인 2시간 2달 동안 진행되는 스터디 정리용 레포입니다.      
+
 저희 스터디 기록이 해당 책으로 공부하는 다른 분들께 도움이 되길 바랍니다.</br></br>
 
       
@@ -29,6 +31,11 @@
 | [<img src="https://github.com/hanmyu.png" width="170dp;"/>](https://github.com/hanmyu) | [<img src="https://github.com/yuzhangzac.png" width="170dp;"/>](https://github.com/yuzhangzac) | [<img src="https://github.com/yoonjokim.png" width="170dp;"/>](https://github.com/yoonjokim) | [<img src="https://github.com/Shyuvi.png" width="170dp;"/>](https://github.com/Shyuvi) |
 | --- | --- | --- | --- |
 | <div align="center">[Han Myungein](https://github.com/hanmyu)</div> | <div align="center">[Yu Zhang](https://github.com/yuzhangzac)</div> | <div align="center">[yoonjokim](https://github.com/yoonjokim)</div> | <div align="center">[Shyuvi](https://github.com/Shyuvi)</div> |
+
+## 영어 온라인 스터디 진행방식
+- 한주간 챕터를 각자 공부합니다(챕터를 먼저 공부하고 스터디에 참여하기).
+- 매주 화요일 저녁 8시~10시에 영어로 온라인 스터디(2시간)을 진행합니다.
+    - 이론 + 코드 탐구, 챕터에서 이해 못한 부분 질의응답 방식으로 진행. 100% 영어로 진행합니다.
  
 
 ## [2024년 1월] 대전 컴퓨터비전 2달 스터디원 소개
@@ -42,11 +49,6 @@
     - 이론 + 코드 탐구, 챕터에서 이해 못한 부분 질의응답 방식으로 진행.
 - 매주 화요일 오후 7시 30분에 온라인 스터디(1시간 30분)를 진행합니다
     - 챕터 요약하며 같이 공부하기.
- 
-## 영어 온라인 스터디 진행방식
-- 한주간 챕터를 각자 공부합니다(챕터를 먼저 공부하고 스터디에 참여하기).
-- 매주 화요일 저녁 8시~10시에 영어로 온라인 스터디(2시간)을 진행합니다.
-      - 이론 + 코드 탐구, 챕터에서 이해 못한 부분 질의응답 방식으로 진행. 100% 영어로 진행합니다.
 
 ## 스터디 지향점
 - 공부에 대한 열정과 자신이 아는 것을 남에게 설명해주는 열린 마음이 있다면 누구나 빠르게 배울 수 있다고 생각합니다🏆 .
