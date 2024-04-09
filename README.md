@@ -25,13 +25,13 @@
 
 ⭐ 객체 탐지와 비전 트랜스포머가 책의 핵심이라 해당 부분을 집중하여 공부합니다.     
 
-## [2024년 4월] 영어 컴퓨터비전 2달 스터디 스터디원 소개
+## [2024년 4월] 영어 컴퓨터비전 2달 스터디원 소개
 | [<img src="https://github.com/hanmyu.png" width="170dp;"/>](https://github.com/hanmyu) | [<img src="https://github.com/yuzhangzac.png" width="170dp;"/>](https://github.com/yuzhangzac) | [<img src="https://github.com/yoonjokim.png" width="170dp;"/>](https://github.com/yoonjokim) | [<img src="https://github.com/Shyuvi.png" width="170dp;"/>](https://github.com/Shyuvi) |
 | --- | --- | --- | --- |
 | <div align="center">[Han Myungein](https://github.com/hanmyu)</div> | <div align="center">[Yu Zhang](https://github.com/yuzhangzac)</div> | <div align="center">[yoonjokim](https://github.com/yoonjokim)</div> | <div align="center">[Shyuvi](https://github.com/Shyuvi)</div> |
  
 
-## [2024년 1월] 대전 컴퓨터비전 2달 스터디 스터디원 소개
+## [2024년 1월] 대전 컴퓨터비전 2달 스터디원 소개
 | [<img src="https://github.com/hanmyu.png" width="100%;"/>](https://github.com/hanmyu) | [<img src="https://github.com/docsom.png" width="100%;"/>](https://github.com/docsom) | [<img src="https://github.com/xvihaan.png" width="100%;"/>](https://github.com/xvihaan) | [<img src="https://github.com/neutro-jina.png" width="100%;"/>](https://github.com/neutro-jina) | [<img src="https://github.com/alfhs.png" width="100%;"/>](https://github.com/alfhs) |
 | --- | --- | --- | --- | --- |
 | <div align="center">[Han Myungein](https://github.com/hanmyu)</div> | <div align="center">[docsom](https://github.com/docsom)</div> | <div align="center">[xvihaan](https://github.com/xvihaan)</div> | <div align="center">[neutro-jina](https://github.com/neutro-jina)</div> | <div align="center">[alfhs](https://github.com/alfhs)</div> |
@@ -45,8 +45,9 @@
     - 챕터 요약하며 같이 공부하기.
  
 # 영어 온라인 스터디 진행방식
+- 한주간 챕터를 각자 공부합니다(챕터를 먼저 공부하고 스터디에 참여하기).
 - 매주 화요일 저녁 8시~10시에 영어로 온라인 스터디(2시간)을 진행합니다.
-
+      - 이론 + 코드 탐구, 챕터에서 이해 못한 부분 질의응답 방식으로 진행.
 
 ## 스터디 지향점
 - 공부에 대한 열정과 자신이 아는 것을 남에게 설명해주는 열린 마음이 있다면 누구나 빠르게 배울 수 있다고 생각합니다🏆 .
