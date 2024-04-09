@@ -36,15 +36,14 @@
 | --- | --- | --- | --- | --- |
 | <div align="center">[Han Myungein](https://github.com/hanmyu)</div> | <div align="center">[docsom](https://github.com/docsom)</div> | <div align="center">[xvihaan](https://github.com/xvihaan)</div> | <div align="center">[neutro-jina](https://github.com/neutro-jina)</div> | <div align="center">[alfhs](https://github.com/alfhs)</div> |
        
-## 스터디 진행방식
-# 대전 오프라인 스터디 진행방식
+## 대전 오프라인 스터디 진행방식
 - 한주간 챕터를 각자 공부합니다(챕터를 먼저 공부하고 스터디에 참여하기).
 - 매주 일요일 오후 2시에 오프라인 스터디(3시간)를 진행합니다.
     - 이론 + 코드 탐구, 챕터에서 이해 못한 부분 질의응답 방식으로 진행.
 - 매주 화요일 오후 7시 30분에 온라인 스터디(1시간 30분)를 진행합니다
     - 챕터 요약하며 같이 공부하기.
  
-# 영어 온라인 스터디 진행방식
+## 영어 온라인 스터디 진행방식
 - 한주간 챕터를 각자 공부합니다(챕터를 먼저 공부하고 스터디에 참여하기).
 - 매주 화요일 저녁 8시~10시에 영어로 온라인 스터디(2시간)을 진행합니다.
       - 이론 + 코드 탐구, 챕터에서 이해 못한 부분 질의응답 방식으로 진행. 100% 영어로 진행합니다.
