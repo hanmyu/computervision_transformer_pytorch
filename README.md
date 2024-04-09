@@ -26,7 +26,7 @@
 ⭐ 객체 탐지와 비전 트랜스포머가 책의 핵심이라 해당 부분을 집중하여 공부합니다.     
 
 ## [2024년 4월] 영어 컴퓨터비전 2달 스터디 스터디원 소개
-| [<img src="https://github.com/hanmyu.png" width="100%;"/>](https://github.com/hanmyu) | [<img src="https://github.com/yuzhangzac.png" width="100%;"/>](https://github.com/yuzhangzac) | [<img src="https://github.com/yoonjokim.png" width="100%;"/>](https://github.com/yoonjokim) | [<img src="https://github.com/Shyuvi.png" width="100%;"/>](https://github.com/Shyuvi) |
+| [<img src="https://github.com/hanmyu.png" width="170dp;"/>](https://github.com/hanmyu) | [<img src="https://github.com/yuzhangzac.png" width="170dp;"/>](https://github.com/yuzhangzac) | [<img src="https://github.com/yoonjokim.png" width="170dp;"/>](https://github.com/yoonjokim) | [<img src="https://github.com/Shyuvi.png" width="170dp;"/>](https://github.com/Shyuvi) |
 | --- | --- | --- | --- |
 | <div align="center">[Han Myungein](https://github.com/hanmyu)</div> | <div align="center">[Yu Zhang](https://github.com/yuzhangzac)</div> | <div align="center">[yoonjokim](https://github.com/yoonjokim)</div> | <div align="center">[Shyuvi](https://github.com/Shyuvi)</div> |
  
